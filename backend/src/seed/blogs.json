@@ -1,27 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Welcome to Blog Module",
-    "slug": "welcome-to-blog-module",
-    "excerpt": "This is the first blog.",
-    "coverImage": "",
-    "published": true,
     "createdAt": "2026-07-02T10:00:00.000Z",
-    "updatedAt": "2026-07-02T10:00:00.000Z",
+    "title": "Updated Welcome Blog",
+    "slug": "updated-welcome-blog",
+    "excerpt": "Updated excerpt",
+    "coverImage": "https://example.com/cover.jpg",
+    "published": true,
+    "updatedAt": "2026-07-02T10:45:13.446Z",
     "blocks": [
       {
+        "data": {
+          "text": "Updated Welcome"
+        },
         "id": "block-1",
-        "type": "heading",
-        "data": {
-          "text": "Welcome"
-        }
-      },
-      {
-        "id": "block-2",
-        "type": "paragraph",
-        "data": {
-          "text": "This is the first paragraph."
-        }
+        "type": "heading"
       }
     ]
   },
